@@ -1,0 +1,56 @@
+header {
+    padding: 4px;
+}
+
+nav {
+    background-color: #303030;
+    height: 84px;
+    width: 986px;
+    border-radius: 4rem;
+    display: flex;
+    align-items: center;
+    margin: .5rem auto 0 auto;
+    justify-content: space-between;
+    padding: 0 2rem;
+}
+
+.header-link ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 2rem;
+}
+
+.header-link a {
+    text-decoration: none;
+    color: white;
+}
+
+.two-button {
+    display: flex;
+    gap: 1rem;
+}
+
+button {
+    border: none;
+    border-radius: 2rem;
+    cursor: pointer;
+    height: 50px;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.btn-login {
+    border: 1px solid white;
+    padding: 0 20px;
+    background-color: #303030;
+    color: white;
+}
+
+.btn-getstarted{
+    background-color: #FFA4F2;
+    color: black;
+    padding: 0 2rem;
+    width: 157.933;
+    border: 1px solid transparent;
+}
