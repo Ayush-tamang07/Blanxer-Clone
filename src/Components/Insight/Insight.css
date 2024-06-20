@@ -1,0 +1,45 @@
+.insight{
+    line-height: 1.55;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+}
+.container img{
+    margin: .5rem .5rem 0rem .5rem;
+}
+.container{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    
+}
+.col-one{
+    height: 20rem;
+    background: #FFF6F6;
+    /* background: red; */
+    width: 35rem;
+    border-radius: 1.5rem;
+}
+.col-two{
+    height: 20rem;
+    background: #F4FFF4;
+    width: 35rem;
+    border-radius: 1.5rem;
+}
+.bullet{
+    margin-left: 1rem;
+    color: inherit;
+    font-size: 16px;
+    line-height: 1.55;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
+.emoji{
+    margin: .5rem 0rem 0rem .5rem;
+}
+.offer{
+    margin: 1rem 0rem 1rem 1rem;
+    font-weight: 700;
+}
