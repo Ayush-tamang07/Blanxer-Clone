@@ -1,0 +1,68 @@
+body{
+    line-height: 1.55rem;
+}
+footer{
+    background-color: #303030;
+    height: 282.6px;
+    width: 1060px;
+    margin: 48px auto; 
+    border-radius: 2rem;
+}
+.all_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 48px;
+
+}
+.container{
+    display: flex;
+    gap: 4rem;
+}
+.one{
+    padding-left: 0;
+    /* width: 8rem; */
+}
+
+.two{
+    padding-left: 0;
+    width: 8rem;
+}
+.three{
+    padding-left: 0;
+    width: 9rem;
+}
+.four{
+    padding-left: 0;
+    width: 11rem;
+}
+ul li{
+    list-style: none;
+}
+.heading, ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 600;
+}
+ul{
+    padding-left: 0;
+}
+.one ul li{
+    color: white;
+}
+h2{
+    line-height: 1.55;
+    font-size: 14px;
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+.copyRight{
+    color: white;
+    text-decoration: none;
+    margin-top: .1rem;
+}
+.message , .mail{
+    font-weight: 500;
+    font-size: 13px;
+}
