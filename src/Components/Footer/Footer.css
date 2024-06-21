@@ -39,7 +39,7 @@ footer{
 ul li{
     list-style: none;
 }
-.heading, ul li a{
+.heading, .link{
     color: white;
     text-decoration: none;
     font-size: 12px;

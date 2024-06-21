@@ -28,27 +28,27 @@ function Footer(){
             <div className="two">
                 <ul>
                     <li><h2 className='heading'>Blanxer</h2></li>
-                    <li><a href="#">Start For Free</a></li>
-                    <li><a href="#">Login</a></li>
-                    <li><a href="#">Pricing</a></li>
-                    <li><a href="#">FAQ's</a></li>
+                    <li><a href="#" className='link'>Start For Free</a></li>
+                    <li><a href="#" className='link'>Login</a></li>
+                    <li><a href="#" className='link'>Pricing</a></li>
+                    <li><a href="#" className='link'>FAQ's</a></li>
                 </ul>
 
             </div>
             <div className="three">
                 <ul>
                     <li><h2 className='heading'>Support</h2></li>
-                    <li><a href="#">Customer Service</a></li>
-                    <li><a href="#">+977 9802344850</a></li>
-                    <li><a href="#">Contact Us</a></li>
-                    <li><a href="#">Report a Bug</a></li>
+                    <li><a href="#"className='link'>Customer Service</a></li>
+                    <li><a href="#"className='link'>+977 9802344850</a></li>
+                    <li><a href="#"className='link'>Contact Us</a></li>
+                    <li><a href="#"className='link'>Report a Bug</a></li>
                 </ul>
             </div>
             <div className="four">
                 <ul>
                     <li><h2 className='heading'>Legal</h2></li>
-                    <li><a href="#">Terms of Services</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#" className='link'>Terms of Services</a></li>
+                    <li><a href="#" className='link'>Privacy Policy</a></li>
                 </ul>
             </div>
             </div>

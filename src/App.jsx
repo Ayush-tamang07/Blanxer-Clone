@@ -1,14 +1,17 @@
-// import Header from './Components/Header/Header'
-// import Insight from './Components/Insight/Insight'
+import Header from './Components/Header/Header'
+import Insight from './Components/Insight/Insight'
 import Footer from './Components/Footer/Footer'
+import Laptop from './Components/Laptop/Laptop'
+
 
 
 function App() {
 
   return (
     <>
-      {/* <Header/> */}
-      {/* <Insight/> */}
+      <Header/>
+      <Laptop/>
+      <Insight/>
       <Footer/>
     </>
   )
