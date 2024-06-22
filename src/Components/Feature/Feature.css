@@ -1,0 +1,38 @@
+.feature-container{
+    display: flex;
+    justify-content: center;
+    /* width: ; */
+}
+.feature-content{
+    width: 460px;
+    height: 164px;
+    align-self: center;
+}
+.feature-item{
+    display: flex;
+    /* flex-direction: column; */
+    gap: .5rem;
+    padding-bottom: 10px;
+}
+.feature-title{
+    font-size: 22px;
+    font-weight: 600;
+    color: #913FFF;
+}
+.feature-description{
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 2rem;
+}
+.feature-highlight{
+    margin-top: 12px;
+    line-height: 1.55;
+    font-size: 18px;
+}
+.re{
+    color: #913FFF;
+}
+.research{
+    font-weight: 600;
+    margin-top: .5rem;
+}

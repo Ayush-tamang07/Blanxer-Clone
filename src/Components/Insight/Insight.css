@@ -3,15 +3,16 @@
     text-align: center;
     font-size: 36px;
     font-weight: 700;
+    padding-top: 32px ;
+    padding-bottom: 32px ;
 }
 .container img{
     margin: .5rem .5rem 0rem .5rem;
 }
 .container{
     display: flex;
-    gap: 1rem;
-    justify-content: center;
-    
+    justify-content: center; 
+    gap: 1rem; 
 }
 .col-one{
     height: 20rem;
@@ -31,15 +32,25 @@
     color: inherit;
     font-size: 16px;
     line-height: 1.55;
-    -webkit-text-decoration: none;
     text-decoration: none;
     margin-top: .5rem;
     margin-bottom: .5rem;
 }
-.emoji{
+/* .emoji{
     margin: .5rem 0rem 0rem .5rem;
-}
+} */
 .offer{
     margin: 1rem 0rem 1rem 1rem;
     font-weight: 700;
 }
+.promo-message{
+    /* margin-top: 11100rem; */
+    text-align: center;
+    margin: 5rem 0 2rem 0;
+    line-height: 1.55;
+    text-decoration: none;
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 6rem;
+  font-weight: 700;
+  }

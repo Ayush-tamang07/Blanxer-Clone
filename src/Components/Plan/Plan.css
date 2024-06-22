@@ -1,0 +1,15 @@
+.price{
+    color: #9b1dff;
+}
+.plan-heading{
+    text-align: center;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.55;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+.discount-offer{
+    text-align: center;
+}

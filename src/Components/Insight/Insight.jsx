@@ -64,6 +64,8 @@ function Insight() {
             </div>
         </div>
       </div>
+      <div className='promo-message'>We have Everything you need!</div>
+
     </>
   );
 }
