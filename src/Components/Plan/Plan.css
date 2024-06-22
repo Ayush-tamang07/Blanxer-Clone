@@ -1,15 +1,68 @@
-.price{
-    color: #9b1dff;
+.price {
+  color: #9b1dff;
 }
-.plan-heading{
-    text-align: center;
-    text-align: center;
-    font-size: 36px;
-    font-weight: 700;
+.plan-heading {
+  text-align: center;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.55;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+.discount-offer {
+  text-align: center;
+}
+.three-plans {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+.free {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  width: 378.6px;
+  height: 842.6px;
+  border-radius: 1rem;
+}
+.premium {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  width: 378.6px;
+  height: 842.6px;
+  border-radius: 1rem;
+}
+.platinum {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  width: 378.6px;
+  height: 842.6px;
+  border-radius: 1rem;
+}
+.free {
+  text-align: center;
+}
+.premium {
+  text-align: center;
+}
+.platinum {
+  text-align: center;
+}
+.btn {
+  background-color: #7a1ee3;
+  color: white;
+  height: 42px;
+  padding-left: 22px;
+  padding-right: 22px;
+  line-height: 1;
+  border: 1px solid transparent;
+  cursor: pointer;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: flex-start; */
+    align-items: flex-start;
+    gap: .5rem;
+}
+.list-item{
+    font-size: 14px;
     line-height: 1.55;
-    margin-top: 3rem;
-    margin-bottom: 1rem;
-}
-.discount-offer{
-    text-align: center;
 }
