@@ -5,6 +5,7 @@ import Laptop from './Components/Laptop/Laptop'
 import Feature from './Components/Feature/Feature'
 import Portfolio from './Components/Portfolio/Portfolio'
 import Plan from './Components/Plan/Plan'
+import FAQ from './Components/FAQ/FAQ'
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <Feature/>
       <Portfolio/>
       <Plan/>
+      <FAQ/>
       <Footer/>
       
     </>

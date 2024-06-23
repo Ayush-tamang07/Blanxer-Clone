@@ -1,0 +1,17 @@
+.premium{
+    border: 2px solid #8D28FF;
+    border-top-left-radius: 0rem;
+    border-top-right-radius: 0rem;
+}
+.mp{
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    background: #8D28FF;
+    color: white;
+    text-align: center;
+    border-top-right-radius: 18px;
+    border-top-left-radius: 18px;
+}
+.premium-container{
+    margin-top: -3rem;
+}

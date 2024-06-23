@@ -17,6 +17,7 @@
   display: flex;
   justify-content: center;
   gap: 2rem;
+  margin-top: 6rem;
 }
 .free {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -54,15 +55,22 @@
   line-height: 1;
   border: 1px solid transparent;
   cursor: pointer;
+  /* margin-top: 2rem; */
+  margin-bottom: 2rem;
+  /* position: fixed; */
 }
 .list{
     display: flex;
     flex-direction: column;
-    /* justify-content: flex-start; */
     align-items: flex-start;
     gap: .5rem;
+    /* margin-left:1rem ; */
+  
 }
 .list-item{
     font-size: 14px;
     line-height: 1.55;
+    margin-left: 1rem;
+    /* gap: 5rem; */
+
 }
